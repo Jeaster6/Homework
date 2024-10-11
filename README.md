@@ -30,7 +30,11 @@ Inside your workspace directory run:
 
 ```bash
 git clone https://github.com/Jeaster6/Homework.git
+```
+```bash
 cd Homework
+```
+```bash
 npm install cypress --save-dev
 ```
 
